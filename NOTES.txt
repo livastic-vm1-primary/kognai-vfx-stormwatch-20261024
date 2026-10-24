@@ -1,0 +1,3 @@
+1. I took 6.4 seconds of a stationary camera view from a CC0 scud clouds time lapse and generated a clean H.264 960x540, 30 fps baseline with its original background intact.
+2. I created original warm pigment lettering "STORM WATCH", projected it with a true perspective transform onto the fixed right-hand wooden fence and kept that projection constant in all 192 frames; its shaded amber face picks up the natural storm light.
+3. All non-sign elements remain untouched by the composition, while a matched audio-free before and after export and reproducible render.py allow frame-by-frame checking for halos, drift and flicker.

@@ -1,0 +1,11 @@
+PUBLIC-DOMAIN SOURCE FOR ONE 6.4 SECOND CLIP
+Title: Scud clouds 22 Aug 2021 Galley Common.webm
+Author: Rubbish computer
+Source: https://commons.wikimedia.org/wiki/File:Scud_clouds_22_Aug_2021_Galley_Common.webm
+Original file: https://upload.wikimedia.org/wikipedia/commons/4/44/Scud_clouds_22_Aug_2021_Galley_Common.webm
+Licence: Creative Commons CC0 1.0 Universal Public Domain Dedication
+Licence URL: https://creativecommons.org/publicdomain/zero/1.0/
+Original downloaded video SHA256: c1846e272d7207c31b44fa3772f946ea21c7af3a2cd9622ba5b8091e8cacb1b8
+Original duration: 7.773 seconds; original dimensions 1920x1080, 30fps.
+New edits: original typography, warm matte shading and perspective composite, 6.4s source extract, 960x540 re-encode.
+No stock music, brands, protected logos, third-party paid tools, or synthetic customer transactions.
